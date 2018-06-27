@@ -1,7 +1,7 @@
 <?php
 /*
 	Plugin Name: Woo Price Notification Lite
-	Plugin URI: http://www.wpfruits.com
+	Plugin URI: http://wpfruits.com
 	Description: Woo Price Notification Plugin is a powerful and must have plugin for every woocommerce site, online store, art gallery or product site. This plugin efficiently weaves into any wordpress site and automatically sends notification when the price of the product falls down. This price notification plugin comes with multiple actions apart from simply sending e-mail notification to the subscribers. By installing the plugin. one can set email form in on/off mode, set mail subject and mail content along with a great thank you message. This Plugin integrates well with the site to result into the best woocommerce experience.
 	Version: 1.0.0
 	Author: WPFruits
